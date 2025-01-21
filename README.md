@@ -1,7 +1,5 @@
 # Hi there, I'm Hiddenmarten! 👋
 
-My real name is **Oleg** **Kunitsyn**, and I'm a **Software Engineer** with a passion for **Go** and **Kubernetes**.
-
 ### Software Engineer
 
 ## 🚀 About Me
